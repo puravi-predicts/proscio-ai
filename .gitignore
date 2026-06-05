@@ -1,0 +1,15 @@
+# 1. Python Cache & Optimization Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 2. Streamlit & Local App Configurations
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# 3. IDE and Operating System System Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
