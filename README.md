@@ -207,5 +207,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-  <b>⬡ PROSCIO AI v2.0</b> · Python + Streamlit · Monte Carlo + AI Integrated
+  <b>⬡ PROSCIO AI</b> · 💻 <code>Python + Streamlit</code> · 📊 <code>Quant Analytics</code> · 🤖 <code>Claude Sonnet Fusion</code>
 </div>
