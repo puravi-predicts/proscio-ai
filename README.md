@@ -12,7 +12,8 @@
 
 ## 📸 Features at a Glance
 [PROSCIO AI Dashboard Interface]
-<img width="1882" height="799" alt="dashboard,png" src="https://github.com/user-attachments/assets/c59c6404-176e-49f5-a52c-b8cab6303e6a" />
+
+<img width="1146" height="547" alt="dashboard-demo gif" src="https://github.com/user-attachments/assets/d79a598b-e956-47f3-b392-3e16a36abbec" />
 
 
 
