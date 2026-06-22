@@ -111,7 +111,7 @@ Where:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/proscio-ai.git
+git clone https://github.com/puravi-predicts/proscio-ai.git
 cd proscio-ai
 ```
 
@@ -154,7 +154,7 @@ proscio-ai/
 
 ---
 
-## 🧠 Interview Prep — Key Concepts
+## Key Concepts
 
 This project is designed to demonstrate and explain core quant finance concepts. 
 
