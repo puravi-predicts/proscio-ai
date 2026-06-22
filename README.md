@@ -11,7 +11,6 @@
 ---
 
 ## 📸 Features at a Glance
-[PROSCIO AI Dashboard Interface]
 
 <img width="1146" height="547" alt="dashboard-demo gif" src="https://github.com/user-attachments/assets/d79a598b-e956-47f3-b392-3e16a36abbec" />
 
@@ -57,7 +56,7 @@ Python 3.10+
 | NFLX | Netflix Inc. | Streaming |
 | AMD | Advanced Micro Devices | Semiconductors |
 
-> All prices are **simulated** using Geometric Brownian Motion seeded from realistic base prices. No live data API required.
+> > All prices are **simulated** using Geometric Brownian Motion seeded from realistic base prices — no live data API or market-data subscription required. This keeps the app fully runnable offline, with zero rate limits, and guarantees reproducible demos.
 
 ---
 
